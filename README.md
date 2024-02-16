@@ -6,4 +6,4 @@
 ![Landing page sample image.](/public/images/2.webp)
 ![Landing page sample image.](/public/images/3.webp)
 
-Run `npm start` in your CLI to run the web app.
+Run `npm i` then `npm start` in your CLI to run the web app.
